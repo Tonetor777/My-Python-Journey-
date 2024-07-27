@@ -1,0 +1,308 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form 12)
+
+1, What is the capital of Ethiopia ?
+	A, Harare
+	B, Addis Ababa
+	C, Tripoli
+	D, Khartoum
+
+2, What is the capital of Ghana ?
+	A, Accra
+	B, Praia
+	C, Lomé
+	D, Lilongwe
+
+3, What is the capital of Somalia ?
+	A, Lilongwe
+	B, Mogadishu
+	C, N'Djamena
+	D, Nairobi
+
+4, What is the capital of Mozambique ?
+	A, Porto-Novo
+	B, Yaoundé
+	C, Gitega
+	D, Maputo
+
+5, What is the capital of Tunisia ?
+	A, Addis Ababa
+	B, Bangui
+	C, Tunis
+	D, Brazzaville
+
+6, What is the capital of Djibouti ?
+	A, Harare
+	B, Maseru
+	C, Djibouti
+	D, São Tomé
+
+7, What is the capital of Mauritania ?
+	A, Harare
+	B, Djibouti
+	C, Niamey
+	D, Nouakchott
+
+8, What is the capital of Egypt ?
+	A, Mogadishu
+	B, Asmara
+	C, N'Djamena
+	D, Cairo
+
+9, What is the capital of Sudan ?
+	A, Libreville
+	B, Juba
+	C, Niamey
+	D, Khartoum
+
+10, What is the capital of Eritrea ?
+	A, Praia
+	B, Asmara
+	C, São Tomé
+	D, Lusaka
+
+11, What is the capital of Zimbabwe ?
+	A, Harare
+	B, Freetown
+	C, Bissau
+	D, Moroni
+
+12, What is the capital of Benin ?
+	A, Algiers
+	B, Porto-Novo
+	C, Nairobi
+	D, Juba
+
+13, What is the capital of Comoros ?
+	A, São Tomé
+	B, Kigali
+	C, N'Djamena
+	D, Moroni
+
+14, What is the capital of South Sudan ?
+	A, Bamako
+	B, Maseru
+	C, Juba
+	D, N'Djamena
+
+15, What is the capital of Equatorial Guinea ?
+	A, Kampala
+	B, Gitega
+	C, Malabo
+	D, Port Louis
+
+16, What is the capital of Morocco ?
+	A, Maputo
+	B, Khartoum
+	C, Rabat
+	D, Moroni
+
+17, What is the capital of Nigeria ?
+	A, Antananarivo
+	B, Abuja
+	C, Libreville
+	D, Addis Ababa
+
+18, What is the capital of Niger ?
+	A, Harare
+	B, N'Djamena
+	C, Cairo
+	D, Niamey
+
+19, What is the capital of Madagascar ?
+	A, Maputo
+	B, Praia
+	C, Antananarivo
+	D, Khartoum
+
+20, What is the capital of Mali ?
+	A, Djibouti
+	B, Mogadishu
+	C, Bamako
+	D, Lusaka
+
+21, What is the capital of Senegal ?
+	A, Dakar
+	B, Banjul
+	C, Conakry
+	D, Yaoundé
+
+22, What is the capital of Botswana ?
+	A, Yamoussoukro
+	B, Monrovia
+	C, Gaborone
+	D, Praia
+
+23, What is the capital of Mauritius ?
+	A, Port Louis
+	B, Windhoek
+	C, Cairo
+	D, Rabat
+
+24, What is the capital of Kenya ?
+	A, Ouagadougou
+	B, Nairobi
+	C, Luanda
+	D, Lilongwe
+
+25, What is the capital of Burundi ?
+	A, Gitega
+	B, Dakar
+	C, Abuja
+	D, Porto-Novo
+
+26, What is the capital of Seychelles ?
+	A, Victoria
+	B, Yamoussoukro
+	C, Mbabane
+	D, Accra
+
+27, What is the capital of Ivory Coast ?
+	A, Ouagadougou
+	B, Dakar
+	C, Yamoussoukro
+	D, Kigali
+
+28, What is the capital of Malawi ?
+	A, Praia
+	B, Harare
+	C, Accra
+	D, Lilongwe
+
+29, What is the capital of Central African Republic ?
+	A, Gaborone
+	B, Bangui
+	C, Antananarivo
+	D, Banjul
+
+30, What is the capital of Namibia ?
+	A, Victoria
+	B, Windhoek
+	C, São Tomé
+	D, Freetown
+
+31, What is the capital of Cabo Verde ?
+	A, N'Djamena
+	B, Bissau
+	C, Kigali
+	D, Praia
+
+32, What is the capital of South Africa ?
+	A, Pretoria
+	B, Accra
+	C, Yaoundé
+	D, Kinshasa
+
+33, What is the capital of Algeria ?
+	A, Harare
+	B, Algiers
+	C, Ouagadougou
+	D, Banjul
+
+34, What is the capital of Eswatini ?
+	A, Mbabane
+	B, São Tomé
+	C, Conakry
+	D, Niamey
+
+35, What is the capital of Sierra Leone ?
+	A, Abuja
+	B, Rabat
+	C, Monrovia
+	D, Freetown
+
+36, What is the capital of Tanzania ?
+	A, Asmara
+	B, Antananarivo
+	C, Gitega
+	D, Dodoma
+
+37, What is the capital of Guinea-Bissau ?
+	A, Niamey
+	B, Porto-Novo
+	C, Lilongwe
+	D, Bissau
+
+38, What is the capital of Gabon ?
+	A, Lilongwe
+	B, Libreville
+	C, Freetown
+	D, Rabat
+
+39, What is the capital of São Tomé and Príncipe ?
+	A, Nouakchott
+	B, Porto-Novo
+	C, São Tomé
+	D, Dakar
+
+40, What is the capital of Lesotho ?
+	A, Accra
+	B, Yaoundé
+	C, Maseru
+	D, Monrovia
+
+41, What is the capital of Gambia ?
+	A, Banjul
+	B, Libreville
+	C, Lilongwe
+	D, Gaborone
+
+42, What is the capital of Democratic Republic of the Congo ?
+	A, Praia
+	B, Kinshasa
+	C, Nairobi
+	D, Malabo
+
+43, What is the capital of Rwanda ?
+	A, Port Louis
+	B, Freetown
+	C, Yamoussoukro
+	D, Kigali
+
+44, What is the capital of Togo ?
+	A, Tripoli
+	B, Lomé
+	C, Brazzaville
+	D, Gaborone
+
+45, What is the capital of Libya ?
+	A, Moroni
+	B, Lomé
+	C, Tripoli
+	D, Gaborone
+
+46, What is the capital of Burkina Faso ?
+	A, Niamey
+	B, Asmara
+	C, Khartoum
+	D, Ouagadougou
+
+47, What is the capital of Republic of the Congo ?
+	A, Gaborone
+	B, N'Djamena
+	C, Brazzaville
+	D, Niamey
+
+48, What is the capital of Uganda ?
+	A, Kampala
+	B, Ouagadougou
+	C, Bissau
+	D, Mogadishu
+
+49, What is the capital of Zambia ?
+	A, Freetown
+	B, Pretoria
+	C, Lusaka
+	D, Cairo
+
+50, What is the capital of Chad ?
+	A, Asmara
+	B, N'Djamena
+	C, Windhoek
+	D, São Tomé
+
